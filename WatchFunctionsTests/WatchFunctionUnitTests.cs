@@ -3,7 +3,7 @@ using Xunit;
 
 namespace WatchFunctionsTests
 {
-    public class UnitTest1
+    public class WatchFunctionUnitTests
     {
         [Fact]
         public void Test1()
